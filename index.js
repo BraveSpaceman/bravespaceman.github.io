@@ -93,9 +93,9 @@ function buy()
 function openLootBox()
 {
     if(language=="ZH") {
-        alert("暂未开售，请关注官方推特，获取最新通知！");
+        alert("即将发售，请关注官方推特，获取最新通知！");
     } else {
-        alert("Not on sale, please follow us in twitter, to get the latest notice!");
+        alert("Coming soon, please follow us in twitter, to get the latest notice!");
     }
 	//document.getElementById("lootTc").style.display = "block";
 }
