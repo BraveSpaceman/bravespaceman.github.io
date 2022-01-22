@@ -286,7 +286,9 @@ a.abtn {
 	padding: 0 10px;
 }
 .indp4 .imgUl li figure {
+	margin: 0px;
 	padding: 0px;
+	border: 0px;
 	width: 100%;
 }
 .indp4 .imgUl li figcaption {
