@@ -151,7 +151,7 @@ a.abtn {
 	margin: 24px 0 0;
 }
 @media screen and (max-width:1400px){
-	a.abtn{width: 200px;height: 64px;line-height: 64px;margin: 0 16px;}
+	a.abtn{width: 220px;height: 64px;line-height: 64px;margin: 0 20px;}
 }
 
 .indp{
